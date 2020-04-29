@@ -1,1 +1,1 @@
-# emon
+lzw encoding
